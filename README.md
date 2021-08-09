@@ -4,9 +4,9 @@
 
 👩‍🎓 Completed Google Data Analytics Professional Certificate📈
 
-🍫 Chocolatier in Hong Kong & France
-
 ❤️ I am interested in coding, machine learning, yoga, sports and making desserts!
+
+🍫 Chocolatier in Hong Kong & France
 
 💁‍♀️ Would like to share my repos here and learn together with all of you!
 
