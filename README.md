@@ -1,6 +1,6 @@
 ## HI👋  This is Nicole!
 
-🧐 Currently taking a 16-week full-time Data Science and Machine Learnging Immersive Bootcamp at Xccelerate, Hong Kong
+🧐 Currently taking a 16-week full-time Data Science and Machine Learning Immersive Bootcamp at Xccelerate, Hong Kong
 
 👩‍🎓 Completed Google Data Analytics Professional Certificate📈
 
